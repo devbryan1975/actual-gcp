@@ -1,10 +1,10 @@
-actual_fqdn - budget.devbryan.duckdns.org
+actual_fqdn = "budget.devbryan.duckdns.org"
 billing_account_name = "My Billing Account"
-duckdns_subdomains = "devbryan" - Values captured in Step #1.
+duckdns_subdomains = "devbryan"
 duckdns_token = "6c74a81c-cfa7-4be3-a25c-822bc78a5e1a"
 gcp_billing_project_name = "Actual Budget"
 gcp_project_name = "Actual Budget"
 gcp_region = "us-central1"
-gcp_zone = us-central1-c
-public_key_path - /Users/bryan/.ssh
+gcp_zone = "us-central1-c"
+public_key_path = "/Users/bryan/.ssh"
 user = "devbryan"
