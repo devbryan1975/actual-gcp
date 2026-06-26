@@ -7,5 +7,4 @@ gcp_project_name = "Actual Budget"
 gcp_region = "us-central1"
 gcp_zone = us-central1-c
 public_key_path - /Users/bryan/.ssh
-user = "devbryan" - It should be your Google username without the "@gmail.com". If you use the SSH proxy to login from the GCP console, it will log you in automatically as this user.
-Note - The .gitignore file is configured to ignore any *.auto.tfvars files. Be extremely cautious with what variable values you allow to be pushed to your source control (Git) repository.
+user = "devbryan"
